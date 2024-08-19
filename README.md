@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**AbhiAndroidManiac/AbhiAndroidManiac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Abhishek Raj Pathak – a passionate coder and very curious  learner if its Mathemizing and sciencizing  me.  :trollface:
 
-Here are some ideas to get you started:
+🚀 What I Do
+Native Android Development: Building robust and scalable Android apps from scratch.
+Coding Competitions: New bee :honeybee: Coding problem solver.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Open Source: Basically Learning  through open-source community.
+
+And dreaming for space invasion :space_invader: :space_invader: :space_invader: :space_invader: 
+
+
+🎸 Outside of Code
+When I'm not coding, you can find me:
+
+Listening to Music :musical_score: :musical_score: :musical_score::
+Music fuels my creativity and keeps me motivated. And nothing buzzes me then Eminem fluid raps. 
+
+Playing :basketball: Basketball: 
+Whether it's a quick pick-up game or watching the latest NBA highlights, basketball is my go-to sport. This is :basketball: my First :purple_heart:. 
+
+💻 Technologies & Tools
+
+Languages: Java, Kotlin, Android
